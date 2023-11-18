@@ -1,0 +1,30 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;700&family=Roboto:wght@300;500;700&display=swap');
+
+body { 
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+p, a {
+  font-family: 'roboto', arial;
+  color: black;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+strong { 
+    font-weight: 600;
+    color: rgb(10, 94, 90);
+}
+
+button {
+    color: #ffffff;
+    border-style: none;
+    border: solid;
+    border-width: 1.1px;
+    cursor: pointer;
+}
